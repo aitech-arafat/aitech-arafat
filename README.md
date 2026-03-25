@@ -1,8 +1,8 @@
-# Hi there, I'm [আপনার নাম] 👋
+# Hi there, I'm [ABDULLAH AL ARAFAT] 👋
 ### Aspiring Full-Stack Web Developer | Problem Solver | Tech Enthusiast
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=[আপনার-ইউজারনেম]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=[aitech-arafat]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Advanced Backend Development & Cloud Deployment**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Laravel, Firebase, or Web Performance**
-- 📫 How to reach me: **[আপনার ইমেইল]**
+- 📫 How to reach me: **[aitech.arafat@gmail.com]**
 - ⚡ Fun fact: **I believe clean code is like a well-structured essay.**
 
 ---
@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[আপনার-ইউজারনেম]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[আপনার-ইউজারনেম]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[aitech-arafat]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aitech-arafat]&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
