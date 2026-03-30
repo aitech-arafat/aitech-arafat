@@ -1,19 +1,19 @@
-# Hi there, I'm [আপনার নাম] 👋
-### Full-Stack Web Developer | Open Source Contributor
+# Hi there, I'm Arafat 👋
+### Full-Stack Web Developer | Backend Enthusiast | Problem Solver
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/github/followers/[আপনার-ইউজারনেম]?label=Follow&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aitech-arafat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aitech-arafat?label=Follow&style=social" alt="Followers" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Full-Stack Projects & Management Systems**
-- 🌱 I’m currently learning **Cloud Infrastructure & Advanced Backend Optimization**
-- 👯 I’m looking to collaborate on **Open Source Web Applications**
-- 🥅 Goals: **Building scalable and efficient software solutions**
-- ⚡ Fun fact: **I spend more time naming variables than writing code.**
+- 🔭 I’m currently working on **Full-Stack Web Applications (Laravel & MySQL)**
+- 🌱 I’m currently learning **Advanced API Security & Cloud Infrastructure**
+- 👯 I’m looking to collaborate on **Open Source Management Systems**
+- 💬 Ask me about **PHP, Laravel, Firebase, and Web Performance**
+- 📫 How to reach me: **[আপনার ইমেইল এখানে দিন]**
 
 ---
 
@@ -36,31 +36,30 @@
   <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ### 📈 GitHub Statistics:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[আপনার-ইউজারনেম]&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[আপনার-ইউজারনেম]&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aitech-arafat&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitech-arafat&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[আপনার-ইউজারনেম]&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aitech-arafat&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 🔗 Connect with me:
 <p align="left">
-  <a href="mailto:[আপনার-ইমেইল]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/[আপনার-ইউজারনেম]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/[আপনার-ইউজারনেম]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aitech-arafat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/aitech_arafat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/aitech.arafat"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Clean code always looks like it was written by someone who cares."</i>
 </p>
