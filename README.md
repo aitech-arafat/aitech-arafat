@@ -19,26 +19,25 @@
 
 ---
 
-## 🚀 Skills (Animated Progress)
+## 🚀 Skills
 
-<p align="left">
+HTML  
+![HTML](https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge)
 
-<img src="https://progress-bar.dev/80/?title=HTML&width=300" />
-<br>
-<img src="https://progress-bar.dev/75/?title=CSS&width=300" />
-<br>
-<img src="https://progress-bar.dev/75/?title=Laravel&width=300" />
-<br>
-<img src="https://progress-bar.dev/80/?title=Google-AI-Studio&width=300" />
-<br>
-<img src="https://progress-bar.dev/80/?title=WordPress&width=300" />
-<br>
-<img src="https://progress-bar.dev/85/?title=Graphic-Design&width=300" />
+CSS  
+![CSS](https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge)
 
-</p>
+Laravel  
+![Laravel](https://img.shields.io/badge/Laravel-75%25-red?style=for-the-badge)
 
----
+Google AI Studio  
+![AI](https://img.shields.io/badge/Google%20AI-80%25-yellow?style=for-the-badge)
 
+WordPress  
+![WP](https://img.shields.io/badge/WordPress-80%25-blue?style=for-the-badge)
+
+Graphic Design  
+![Design](https://img.shields.io/badge/Design-85%25-purple?style=for-the-badge)
 ## 📊 GitHub Stats (FIXED ✅)
 
 <p align="center">
