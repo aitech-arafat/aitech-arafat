@@ -19,38 +19,33 @@
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills (Animated)
 
-HTML  
-![HTML](https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge)
+<p align="left">
 
-CSS  
-![CSS](https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge)
+<img src="https://github.com/denvercoder1/readme-typing-svg/blob/main/demo/assets/html.gif" width="300"/>
 
-Laravel  
-![Laravel](https://img.shields.io/badge/Laravel-75%25-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 
-Google AI Studio  
-![AI](https://img.shields.io/badge/Google%20AI-80%25-yellow?style=for-the-badge)
+<img src="https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 
-WordPress  
-![WP](https://img.shields.io/badge/WordPress-80%25-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Laravel-75%25-red?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-Graphic Design  
-![Design](https://img.shields.io/badge/Design-85%25-purple?style=for-the-badge)
-## 📊 GitHub Stats (FIXED ✅)
+<img src="https://img.shields.io/badge/Google%20AI-80%25-yellow?style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aitech-arafat&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitech-arafat&layout=compact&theme=tokyonight" />
+<img src="https://img.shields.io/badge/WordPress-80%25-blue?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Design-85%25-purple?style=for-the-badge"/>
+
 </p>
-
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+Expert;AI+Enthusiast;Creative+Designer" />
+</p>
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aitech-arafat&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aitech-arafat&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
