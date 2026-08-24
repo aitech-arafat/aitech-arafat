@@ -1,31 +1,50 @@
-# Hey 👋, I'm Abdullah Al Arafat!
+# 👋 Hey, I'm Abdullah Al Arafat!
 
 <p align="left">
   <a href="https://github.com/aitech-arafat">
-    <img src="https://komarev.com/ghpvc/?username=aitech-arafat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-aitech--arafat-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/aitech-arafat">
-    <img src="https://img.shields.io/github/followers/aitech-arafat?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
+<p>
+I'm a passionate <b>Web Developer, AI Enthusiast & Graphic Designer</b>
+who loves building useful digital products, experimenting with AI,
+and turning ideas into real-world projects.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 More About Me
 
-I'm a passionate **Web Developer, Designer & AI Enthusiast** who loves turning ideas into useful and creative digital experiences.
+<table>
+<tr>
 
-I enjoy working with modern web technologies, building automation systems, experimenting with AI tools, and creating clean & functional user interfaces.
+<td width="58%" valign="top">
 
-- 🔭 I'm currently working on **AI-powered Web Apps & Automation Projects**
-- 🌱 I'm currently learning **Advanced Full-Stack Development & AI**
-- 🤝 I'm interested in collaborating on **Web, AI & Automation Projects**
-- 💡 I love exploring new technologies and turning ideas into real projects
-- 🎨 I also enjoy **Graphic Design & UI Design**
-- ⚡ Fun fact: I love building things that make everyday tasks easier
+- 🔭 I'm currently working on <b>AI-powered Web Apps & Automation</b>
+- 🌱 I'm currently learning <b>Advanced Full-Stack Development & AI</b>
+- 🤝 I'm looking to collaborate on <b>Web, AI & Automation Projects</b>
+- 💡 I love exploring new technologies and building useful tools
+- 🎨 I'm also passionate about <b>Graphic Design & UI/UX</b>
+- 🤖 I enjoy experimenting with <b>AI & Automation Workflows</b>
+- 🔥 Most of my projects are focused on solving real-world problems
+- 💬 Ask me about <b>Web Development, Laravel, WordPress & AI</b>
+- ⚡ I love turning ideas into working products
+
+</td>
+
+<td width="42%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
+  width="350"
+  alt="Coding"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -33,53 +52,18 @@ I enjoy working with modern web technologies, building automation systems, exper
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
-</a>
-
-<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
 <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP"/>
-</a>
-
-<a href="https://laravel.com/">
 <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel"/>
-</a>
-
-<a href="https://wordpress.org/">
 <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="WordPress"/>
-</a>
-
-<a href="https://firebase.google.com/">
 <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase"/>
-</a>
-
-<a href="https://vercel.com/">
-<img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>
-</a>
-
-<a href="https://www.cloudflare.com/">
-<img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="Cloudflare"/>
-</a>
-
-<a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
 <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://www.figma.com/">
 <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
-</a>
+<img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="Cloudflare"/>
 
 </p>
 
@@ -89,37 +73,43 @@ I enjoy working with modern web technologies, building automation systems, exper
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
 
-<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration"/>
 
 </p>
-
-I enjoy building:
-
-- 🤖 AI-powered applications
-- ⚙️ Workflow automation
-- 💬 AI chatbots
-- 📱 WhatsApp automation
-- 🧠 AI content tools
-- 🔥 Firebase-powered applications
-- 🚀 API-based systems
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aitech-arafat&show_icons=true&theme=default&hide_border=true&count_private=true" height="180"/>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitech-arafat&layout=compact&theme=default&hide_border=true&langs_count=8" height="180"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aitech-arafat&theme=default"
+  alt="GitHub Statistics"
+/>
 
-</p>
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aitech-arafat&theme=default"
+  alt="Most Used Languages"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -127,9 +117,120 @@ I enjoy building:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aitech-arafat&theme=default&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=aitech-arafat&theme=default&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aitech-arafat&theme=minimal&hide_border=true&area=true"
+  width="100%"
+  alt="Contribution Graph"
+/>
+
+</p>
+
+---
+
+## 💻 My Development Skills
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Web Development</h3>
+
+<p><b>HTML</b> <span>80%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="80%" bgcolor="#2196F3" height="10">&nbsp;</td>
+<td width="20%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
+</tr>
+</table>
+
+<p><b>CSS</b> <span>75%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="75%" bgcolor="#2196F3" height="10">&nbsp;</td>
+<td width="25%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
+</tr>
+</table>
+
+<p><b>Laravel</b> <span>75%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="75%" bgcolor="#2196F3" height="10">&nbsp;</td>
+<td width="25%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
+</tr>
+</table>
+
+<p><b>WordPress</b> <span>80%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="80%" bgcolor="#2196F3" height="10">&nbsp;</td>
+<td width="20%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI & Design</h3>
+
+<p><b>Google AI Studio</b> <span>80%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="80%" bgcolor="#8E75B2" height="10">&nbsp;</td>
+<td width="20%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
+</tr>
+</table>
+
+<p><b>Graphic Design</b> <span>85%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="85%" bgcolor="#8E75B2" height="10">&nbsp;</td>
+<td width="15%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
+</tr>
+</table>
+
+<p><b>UI/UX Design</b> <span>80%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="80%" bgcolor="#8E75B2" height="10">&nbsp;</td>
+<td width="20%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
+</tr>
+</table>
+
+<p><b>Automation</b> <span>80%</span></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="80%" bgcolor="#8E75B2" height="10">&nbsp;</td>
+<td width="20%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -138,41 +239,41 @@ I enjoy building:
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Creator Toolkit
 
-An AI-powered toolkit designed for content creators, freelancers and students.
+An AI-powered toolkit for content creators, freelancers and students.
 
-**Features:**
+**Features**
 
 - 📝 Text Summarizer
 - 📄 PDF Summarizer
-- 🎯 Caption Generator
+- ✍️ Caption Generator
 - #️⃣ Hashtag Generator
-- ✍️ Grammar Fixer
+- 🔤 Grammar Fixer
 - 🌐 Translator
-- 🧠 Prompt Generator
+- 💡 Prompt Generator
 - 🔄 AI Rewriter
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📺 E-SPORTYNET
 
-A sports streaming platform concept for live and recorded sports content.
+A sports streaming platform for live and recorded sports content.
 
-**Features:**
+**Features**
 
 - ⚽ Football
 - 🏏 Cricket
 - 🎮 Gaming
 - 📅 Match Schedule
 - 📡 Live Channels
-- 🔐 Admin Panel
-- 🔥 Firebase Authentication
+- 🔐 Firebase Authentication
 - ⚙️ API Management
+- 🛡️ Admin Panel
 
 </td>
 
@@ -180,37 +281,37 @@ A sports streaming platform concept for live and recorded sports content.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚔️ Solo Leveling System
 
-A full-stack Solo Leveling inspired ranking & profile system.
+A full-stack ranking and profile system inspired by Solo Leveling.
 
-**Features:**
+**Features**
 
-- 🏆 Leaderboard
+- 🏆 Hero Leaderboard
 - ⚡ Level System
 - 🔥 Aura System
 - 👤 User Management
 - 🌍 Country Ranking
-- 🖼️ Profile Pictures
+- 🖼️ Profile Picture
 - ✅ Verification System
 - 🛡️ Admin Dashboard
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 WABOT
 
-An AI-powered WhatsApp assistant and automation project.
+An AI-powered WhatsApp assistant and automation system.
 
-**Features:**
+**Features**
 
 - 💬 AI Chat
 - 🧠 Memory
 - ⚙️ Workflow Automation
-- 📲 WhatsApp Integration
+- 📱 WhatsApp Integration
 - 🔗 API Integration
 - 🤖 Automated Responses
 
@@ -221,26 +322,104 @@ An AI-powered WhatsApp assistant and automation project.
 
 ---
 
-## 💻 Featured Technologies
+## 🎯 What I Love Building
 
-| Technology | Experience |
-|------------|------------|
-| HTML | ████████████████████ 80% |
-| CSS | ███████████████░░░░░ 75% |
-| Laravel | ███████████████░░░░░ 75% |
-| Google AI Studio | ████████████████░░░░ 80% |
-| WordPress | ████████████████░░░░ 80% |
-| Graphic Design | █████████████████░░░ 85% |
+<table>
+<tr>
+
+<td align="center">🌐<br><b>Websites</b></td>
+<td align="center">🤖<br><b>AI Apps</b></td>
+<td align="center">⚙️<br><b>Automation</b></td>
+<td align="center">📱<br><b>Web Apps</b></td>
+
+</tr>
+
+<tr>
+
+<td align="center">🎨<br><b>UI/UX</b></td>
+<td align="center">🔥<br><b>Firebase Apps</b></td>
+<td align="center">💬<br><b>Chatbots</b></td>
+<td align="center">📊<br><b>Dashboards</b></td>
+
+</tr>
+</table>
 
 ---
 
-## 🎨 Design & Development
+## 🧰 My Tech Stack
 
-I love combining **development + design** to create modern digital products.
+<p align="center">
 
-```text
-Web Development     █████████████████░░░ 80%
-UI / UX Design      █████████████████░░░ 80%
-Graphic Design      ██████████████████░░ 85%
-AI Development      █████████████████░░░ 80%
-Automation          ████████████████░░░░ 80%
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,firebase,git,github,figma,vercel,cloudflare"
+  alt="Tech Stack"
+/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/aitech-arafat">
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+<img
+  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+  alt="Facebook"
+/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img
+  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  alt="Instagram"
+/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Quote
+
+<p align="center">
+
+<i>
+"Code is not just about solving problems.<br>
+It's about turning ideas into reality."
+</i>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</p>
