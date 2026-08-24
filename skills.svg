@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">My Development Skills</title>
+  <desc id="desc">Two-column skill cards for Web Development and AI and Design.</desc>
+
+  <defs>
+    <linearGradient id="webGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="aiGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="560" rx="18" fill="#ffffff"/>
+
+  <!-- LEFT CARD -->
+  <rect x="20" y="20" width="560" height="520" rx="16" fill="#F8FAFC" stroke="#D9E2EC" stroke-width="2"/>
+  <circle cx="58" cy="64" r="20" fill="#E0F2FE"/>
+  <text x="58" y="71" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20">🌐</text>
+  <text x="92" y="72" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Web Development</text>
+
+  <!-- HTML: 80% -->
+  <text x="50" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">HTML</text>
+  <text x="550" y="130" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#2563EB">80%</text>
+  <rect x="50" y="143" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 80% here to change the bar -->
+  <svg x="50" y="143" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="80%" height="12" rx="6" fill="url(#webGradient)"/>
+  </svg>
+
+  <!-- CSS: 75% -->
+  <text x="50" y="195" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">CSS</text>
+  <text x="550" y="195" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#2563EB">75%</text>
+  <rect x="50" y="208" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 75% here to change the bar -->
+  <svg x="50" y="208" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="75%" height="12" rx="6" fill="url(#webGradient)"/>
+  </svg>
+
+  <!-- Laravel: 75% -->
+  <text x="50" y="260" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Laravel</text>
+  <text x="550" y="260" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#2563EB">75%</text>
+  <rect x="50" y="273" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 75% here to change the bar -->
+  <svg x="50" y="273" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="75%" height="12" rx="6" fill="url(#webGradient)"/>
+  </svg>
+
+  <!-- WordPress: 80% -->
+  <text x="50" y="325" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">WordPress</text>
+  <text x="550" y="325" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#2563EB">80%</text>
+  <rect x="50" y="338" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 80% here to change the bar -->
+  <svg x="50" y="338" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="80%" height="12" rx="6" fill="url(#webGradient)"/>
+  </svg>
+
+  <!-- PHP: 70% -->
+  <text x="50" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">PHP</text>
+  <text x="550" y="390" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#2563EB">70%</text>
+  <rect x="50" y="403" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 70% here to change the bar -->
+  <svg x="50" y="403" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="70%" height="12" rx="6" fill="url(#webGradient)"/>
+  </svg>
+
+  <!-- JavaScript: 70% -->
+  <text x="50" y="455" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">JavaScript</text>
+  <text x="550" y="455" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#2563EB">70%</text>
+  <rect x="50" y="468" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 70% here to change the bar -->
+  <svg x="50" y="468" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="70%" height="12" rx="6" fill="url(#webGradient)"/>
+  </svg>
+
+
+  <!-- RIGHT CARD -->
+  <rect x="620" y="20" width="560" height="520" rx="16" fill="#FDF9FF" stroke="#E4D9F2" stroke-width="2"/>
+  <circle cx="658" cy="64" r="20" fill="#F3E8FF"/>
+  <text x="658" y="71" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20">🤖</text>
+  <text x="692" y="72" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">AI &amp; Design</text>
+
+  <!-- Google AI Studio: 80% -->
+  <text x="650" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Google AI Studio</text>
+  <text x="1150" y="130" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7C3AED">80%</text>
+  <rect x="650" y="143" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 80% here to change the bar -->
+  <svg x="650" y="143" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="80%" height="12" rx="6" fill="url(#aiGradient)"/>
+  </svg>
+
+  <!-- Graphic Design: 85% -->
+  <text x="650" y="195" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Graphic Design</text>
+  <text x="1150" y="195" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7C3AED">85%</text>
+  <rect x="650" y="208" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 85% here to change the bar -->
+  <svg x="650" y="208" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="85%" height="12" rx="6" fill="url(#aiGradient)"/>
+  </svg>
+
+  <!-- UI/UX Design: 80% -->
+  <text x="650" y="260" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">UI/UX Design</text>
+  <text x="1150" y="260" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7C3AED">80%</text>
+  <rect x="650" y="273" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 80% here to change the bar -->
+  <svg x="650" y="273" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="80%" height="12" rx="6" fill="url(#aiGradient)"/>
+  </svg>
+
+  <!-- Automation: 80% -->
+  <text x="650" y="325" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Automation</text>
+  <text x="1150" y="325" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7C3AED">80%</text>
+  <rect x="650" y="338" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 80% here to change the bar -->
+  <svg x="650" y="338" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="80%" height="12" rx="6" fill="url(#aiGradient)"/>
+  </svg>
+
+  <!-- AI / API: 75% -->
+  <text x="650" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">AI &amp; API Integration</text>
+  <text x="1150" y="390" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7C3AED">75%</text>
+  <rect x="650" y="403" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 75% here to change the bar -->
+  <svg x="650" y="403" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="75%" height="12" rx="6" fill="url(#aiGradient)"/>
+  </svg>
+
+  <!-- Problem Solving: 85% -->
+  <text x="650" y="455" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Problem Solving</text>
+  <text x="1150" y="455" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7C3AED">85%</text>
+  <rect x="650" y="468" width="500" height="12" rx="6" fill="#E5E7EB"/>
+  <!-- Change 85% here to change the bar -->
+  <svg x="650" y="468" width="500" height="12" viewBox="0 0 500 12" overflow="hidden">
+    <rect x="0" y="0" width="85%" height="12" rx="6" fill="url(#aiGradient)"/>
+  </svg>
+</svg>
