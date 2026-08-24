@@ -140,98 +140,15 @@ and turning ideas into real-world projects.
 
 ---
 
-## 💻 My Development Skills
+<h2>💻 My Development Skills</h2>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Web Development</h3>
-
-<p><b>HTML</b> <span>80%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="80%" bgcolor="#2196F3" height="10">&nbsp;</td>
-<td width="20%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
-</tr>
-</table>
-
-<p><b>CSS</b> <span>75%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="75%" bgcolor="#2196F3" height="10">&nbsp;</td>
-<td width="25%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
-</tr>
-</table>
-
-<p><b>Laravel</b> <span>75%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="75%" bgcolor="#2196F3" height="10">&nbsp;</td>
-<td width="25%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
-</tr>
-</table>
-
-<p><b>WordPress</b> <span>80%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="80%" bgcolor="#2196F3" height="10">&nbsp;</td>
-<td width="20%" bgcolor="#E8EEF4" height="10">&nbsp;</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🤖 AI & Design</h3>
-
-<p><b>Google AI Studio</b> <span>80%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="80%" bgcolor="#8E75B2" height="10">&nbsp;</td>
-<td width="20%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
-</tr>
-</table>
-
-<p><b>Graphic Design</b> <span>85%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="85%" bgcolor="#8E75B2" height="10">&nbsp;</td>
-<td width="15%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
-</tr>
-</table>
-
-<p><b>UI/UX Design</b> <span>80%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="80%" bgcolor="#8E75B2" height="10">&nbsp;</td>
-<td width="20%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
-</tr>
-</table>
-
-<p><b>Automation</b> <span>80%</span></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="80%" bgcolor="#8E75B2" height="10">&nbsp;</td>
-<td width="20%" bgcolor="#EEEAF2" height="10">&nbsp;</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
+<p align="center">
+  <img
+    src="skills.svg"
+    width="100%"
+    alt="My Development Skills"
+  />
+</p>
 ---
 
 ## 🚀 My Projects
